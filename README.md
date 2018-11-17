@@ -1,0 +1,1 @@
+# sopt_plan_git_seminar
